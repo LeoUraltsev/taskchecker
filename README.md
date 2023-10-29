@@ -11,10 +11,11 @@
 ## Что представляет данный проект
 * `REST API` для работы с заметками пользователя 
 * `Telegram bot` в качестве клиента
-* `JWT` для авторизации
-* `ECHO` как web фреймворк
-* `LOGRUS` в качестве логера
-* `POSTGRESQL` в качесте базы данных
+* `JWT` для авторизации [GitHub](https://github.com/golang-jwt/jwt)
+* `ECHO` как web фреймворк [GitHub](https://github.com/labstack/echo)
+* `LOGRUS` в качестве логера [GitHub](https://github.com/sirupsen/logrus)
+* `POSTGRESQL` в качесте базы данных [GitHub](https://github.com/jackc/pgx)
+* `CleanEnv` в качесте конфига [GitHub](https://github.com/ilyakaznacheev/cleanenv) 
 
 ### Возможности пользователя
 
